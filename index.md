@@ -9,4 +9,4 @@
 -para colocar link colocamos o texto e abrimos e fechamos com colchetes e depois abrimos parênteses colocamos o link e fechamos 
 
 
-[Agradeço ao] (https://youtu.be/WqIaqUqQXdc) [que me ensinou como fazer um site, e também ao] (https://github.com/luong-komorebi) [que me mostrou vários códigos de marcação.]  
+[Agradeço ao] (https://youtu.be/WqIaqUqQXdc) [que me ensinou como fazer um site, e também ao] (https://github.com/luong-komorebi) [que me mostrou vários códigos de marcação.]
