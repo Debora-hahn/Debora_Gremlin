@@ -12,5 +12,4 @@ Agradeço ao (https://github.com/luong-komorebi) que me ensinou como fazer um si
 para colocar link abrimos parênteses colocamos o link e fechamos (https://debora-hahn.github.io/Debora_Gremlin/)
 
 @Débora :+1: obrigada pela atenção - finalmente consegui :shipit:
-# Autora:
-## Débora Hahn 
+
