@@ -3,7 +3,7 @@
 
 Esse site foi desenvolvido para explorar tudo o que eu conseguir sobre essa ferramenta
 
-Agradeço ao (https://github.com/luong-komorebi) que me ensinou como fazer um site, e também ao (https://github.com/luong-komorebi) que me mostrou vários códigos de marcação.
+Agradeço ao (https://youtu.be/WqIaqUqQXdc) que me ensinou como fazer um site, e também ao (https://github.com/luong-komorebi) que me mostrou vários códigos de marcação.
 
 *como fazer itálico? É só usar asterisco no começo e no final da frase*
 
