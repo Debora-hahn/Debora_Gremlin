@@ -1,4 +1,3 @@
-# Debora_Gremlin
 #Seja muitos Bem-vindos
 
 Esse site foi desenvolvido para explorar tudo o que eu conseguir sobre essa ferramenta
@@ -9,7 +8,9 @@ Agradeço ao (https://youtu.be/WqIaqUqQXdc) que me ensinou como fazer um site, e
 
 **como fazer negrito? Usar dois asteriscos no começo e no fim**
 
+
 para colocar link abrimos parênteses colocamos o link e fechamos (https://debora-hahn.github.io/Debora_Gremlin/)
+
 
 @Débora :+1: obrigada pela atenção - finalmente consegui :shipit:
 
